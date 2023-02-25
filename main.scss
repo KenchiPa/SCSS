@@ -1,3 +1,9 @@
+
+// // : 새롭게 SCSS에서 제공하는 주석, css로 변환된 후에 주석이 남아있지 않다.
+// /* */ : 기존 CSS 제공하는 주석, css로 변환된 후에도 주석이 남아있다.
+
+@import "./sub.scss", "./sub2";  // 확장자 생략가능
+
 $color: royalblue;  // 변수로 사용
 
 .container {
