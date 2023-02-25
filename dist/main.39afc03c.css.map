@@ -1,1 +1,1 @@
-{"version":3,"sources":["main.scss"],"names":[],"mappings":"AACI;EACI","file":"main.39afc03c.css","sourceRoot":"..","sourcesContent":[".container {\r\n    h1 {\r\n        color: red;\r\n    }\r\n}"]}
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAGI;EACI,OAJA","file":"main.39afc03c.css","sourceRoot":"..","sourcesContent":["$color: royalblue;  // 변수로 사용\r\n\r\n.container {\r\n    h1 {\r\n        color: $color;\r\n    }\r\n}"]}
